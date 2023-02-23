@@ -1,4 +1,4 @@
-package ua.project.com.repo;
+package ua.project.com.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import ua.project.com.model.Order;
